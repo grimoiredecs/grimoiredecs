@@ -3,7 +3,7 @@ My name is Nguyễn Tiến Khang, I'm currently studying Computer Science at Ho 
 
 🔭 I'm thoroughly interested in fields related to Machine Learning and Optimization, more specifically my fields of interests/research.
   - Applied Machine Learning (in Bioinformatics and Complex System)
-  - Numerical and Combinatorial Optimization (various mathematical modelling and techniques)
+  - Numerical and Combinatorial Optimization (various mathematical models and techniques)
   - Operations Research (Supply Chain Optimization and Decision Making Theory)
   - Time-Series Analysis (in various fields like Bioinfomatics and Economics)
 
@@ -13,6 +13,7 @@ My name is Nguyễn Tiến Khang, I'm currently studying Computer Science at Ho 
   - I'm also currently learning and practicing advanced Python, esspecially for Machine Learning and Data Analysis tasks, and to deploy some of my frameworks and applications.
   - I also take a keen interest in MySQL, MongoDB and Oracle SQL.
   - I also use C whenever I need to have a look at some low-level tasks.
+  - Aside from being well-versed in Object-Oriented Programming, I also possess great skills in functional programming in Haskell and Python.
     
 If you ever want to collaborate with me on any projects, please contact me at these 2 addreses:
   - My personal Email: khangtien24@gmail.com
