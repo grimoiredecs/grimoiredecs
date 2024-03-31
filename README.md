@@ -3,7 +3,8 @@ My name is Nguyễn Tiến Khang, I'm currently studying Computer Science at Ho 
 I'm thoroughly interested in fields related to Machine Learning and Optimization, more specifically my fields of interests/research.
 - Applied Machine Learning (in Bioinformatics and Complex System)
 - Reinforcement Learnng (Optimization and Advanced Combinatorial Algorithms)
-- Operations Research (Supply Chain Optimization and Logistics)
+- Numerical Optimization (various mathematical modelling and techniques)
+- Operations Research (Supply Chain Optimization and Decision Making Theory)
 - Time-Series Analysis (in various fields like Bioinfomatics and Economics)
 <!--
 **Compscicafe/Compscicafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
