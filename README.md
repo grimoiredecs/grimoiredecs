@@ -14,7 +14,7 @@ My name is Nguyễn Tiến Khang, I'm currently studying Computer Science at Ho 
   - I also take a keen interest in MySQL, MongoDB and Oracle SQL.
   - I also use C whenever I need to have a look at some low-level tasks. In the near future, I'm  considering Rust for knowledge widening.
   - Aside from being well-versed in Object-Oriented Programming, I also possess great skills in functional programming in Haskell and Python.
-  - Though not virutous in Computing systems, I have a firm background on Security and modern computing services.
+  - Though not virtuous in Computing systems, I have a firm background on Security and modern computing services.
     
 If you ever want to collaborate with me on any projects, please contact me at these 2 addreses:
   - My personal Email: khangtien24@gmail.com
