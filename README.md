@@ -2,15 +2,15 @@
 My name is Nguyễn Tiến Khang, I'm currently studying Computer Science at Ho Chi Universty of Technology. 
 
 🔭 I'm thoroughly interested in fields related to Machine Learning and Optimization, more specifically my fields of interests/research are:
-  - Applied Machine Learning (in Bioinformatics and Computing System)
-  - Numerical Optimization (various mathematical models and techniques)
-  - Information Security and Privacy in Modern Computing Systems (in Real-time Systems and IoT devices)
-  - Time-Series Analysis (especially with regard to Machine Learning)
+  - Applied Machine Learning (in Bioinformatics and Distributed System)
+  - Numerical Optimization (Modelling Dynamics and Real-time Systems)
+  - Information Security (in Real-time System, IoT devices and Cryptanalysis)
+  - Time-Series Analysis (using applied statisitcal techniques)
 
 
 🌱 In terms of personal skills:
-  - I'm proficient in C++ (C++20 to be precise), which I very often use for algorithm design, competitive programming and some heavy and performance-focused works.
-  - I'm also currently learning and practicing advanced Python, esspecially for Machine Learning and Data Analysis tasks, and to deploy some of my frameworks and applications.
+  - I'm highly proficient in Python Programming, which I very often use for Machine Learning, Statistical Computing, Back-end development and other computing-related tasks
+  - I'm also skilled in C++ programming, leveraging its power for algorithm design, high-performance computing and competitive programming.
   - I also take a keen interest in MySQL, MongoDB and Oracle SQL.
   - I also use C whenever I need to have a look at some low-level tasks. In the near future, I'm  considering Rust for knowledge widening.
   - Aside from being well-versed in Object-Oriented Programming, I also possess great skills in functional programming in Haskell and Python.
