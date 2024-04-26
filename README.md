@@ -17,7 +17,7 @@ My name is Nguyễn Tiến Khang, I'm currently studying Computer Science at Ho 
   - Though not virtuous in Computing systems, I have a firm background on Security and modern computing services.
     
 If you ever want to collaborate with me on any projects, please contact me at these 2 addreses:
-  - My personal Email: lambda.null738p@proton.me (preferred) || khangtien24@gmail.com 
+  - My personal Emails: lambda.null738p@proton.me (preferred) || khangtien24@gmail.com 
   - My school Email: khang.nguyentienk22@hcmut.edu.vn
 
   Best Regards
