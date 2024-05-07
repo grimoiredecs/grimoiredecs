@@ -2,10 +2,11 @@
 My name is Nguyễn Tiến Khang, I'm currently studying Computer Science at Ho Chi Universty of Technology. 
 
 🔭 I'm thoroughly interested in fields related to Machine Learning and Optimization, more specifically my fields of interests/research are:
-  - Applied Machine Learning (in Bioinformatics and Distributed System)
+  - Distributed System
   - Numerical Optimization (Modelling Dynamics and Real-time Systems)
-  - Information Security (in Real-time System, IoT devices and Cryptanalysis)
+  - Computer Security (in Modern Computing Systems and IoT devices)
   - Time-Series Analysis (using applied statisitcal techniques)
+  - Applied Cryptography 
 
 
 🌱 In terms of personal skills:
