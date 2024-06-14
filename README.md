@@ -3,7 +3,7 @@ My name is Nguyễn Tiến Khang, I'm currently studying Computer Science at Ho 
 
 🔭 I'm thoroughly interested in fields related to Machine Learning and Optimization, more specifically my fields of interests/research are:
   - Supervised Learning
-  - Optimization ALgorithms and Applications in Finance and Logistics
+  - Optimization Algorithms and Applications in Finance and Logistics
   - Data Science
   - Data Security (in Large-Scale Systems)
   - Applied Cryptography 
@@ -14,8 +14,7 @@ My name is Nguyễn Tiến Khang, I'm currently studying Computer Science at Ho 
   - I'm also skilled in C++ programming, leveraging its power for algorithm design, high-performance computing and competitive programming.
   - I also take a keen interest in MySQL, MongoDB and Oracle SQL.
   - I also use C whenever I need to have a look at some low-level tasks. In the near future, I'm  considering Rust for knowledge widening.
-  - Aside from being well-versed in Object-Oriented Programming, I also possess great skills in functional programming in Haskell and Python.
-  - Though not virtuous in Computing systems, I have a firm background on Security and modern computing services.
+  - Though not virtuous in Computing systems, I have a firm background on Security and Modern Computing.
     
 If you ever want to collaborate with me on any projects, please contact me at these 2 addreses:
   - My personal Emails: lambda.null738p@proton.me (preferred) || khangtien24@gmail.com 
