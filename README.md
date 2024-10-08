@@ -2,10 +2,9 @@
 My name is Nguyễn Tiến Khang, I'm currently studying Computer Science at Ho Chi Universty of Technology. 
 
 🔭 I'm thoroughly interested in fields related to Applied Machine Learning and Data Engineering, more specifically I focus on:
-  - Computer Vision and Convolutional Neural Networks
+  - System Design and Analysis
   - Data Mining
-  - Human-Computer Interaction
-  - Graphical Learning Models
+  - Computer Vision
 
 
 🌱 In terms of personal skills:
